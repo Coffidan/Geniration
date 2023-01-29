@@ -1,0 +1,7 @@
+﻿  Characted.cpp
+  GeneratorAvatara.cpp
+C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\GeneratorAvatara.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\GeneratorAvatara.cpp(12,12): error C2512: Characted: нет подходящего конструктора по умолчанию
+C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\Characted.h(9,7): message : см. объявление "Characted"
+C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\GeneratorAvatara.cpp(13,15): error C3867: "Characted::run": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+  Создание кода...
