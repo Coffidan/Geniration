@@ -1,7 +1,0 @@
-﻿  Builder.cpp
-  Characted.cpp
-C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\Characted.cpp(63,9): error C2039: "shorts": не является членом "std::basic_string<char,std::char_traits<char>,std::allocator<char>>".
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\xstring(4920): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
-  GeneratorAvatara.cpp
-C:\Users\Взрослая академия\Documents\s3n4\GeneratorAvatara\GeneratorAvatara.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
